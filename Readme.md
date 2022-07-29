@@ -1,7 +1,10 @@
 # **Project 8 - Design Landing Page**
 
-- This project is a landing page for . 
+- This project is a landing page for web designers. 
 
+[Netlify](https://design-landing-page-harshthakkar1011.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
