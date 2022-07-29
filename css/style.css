@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('../images/backcover.svg');
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+}
+
+.main-div{
+    margin: 0 10%;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+
+/* Navbar */
+
+nav{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .nav-items{
+    display: flex;
+}
+
+nav .nav-items .nav-item{
+    padding: 0 25px;
+    color: #353D80;
+    font-size: 1.1rem;
+}
+
+nav .signin-btn{
+    border: none;
+    background: linear-gradient(90deg, #965CF2, #FF8ADC);
+    padding: 5px 15px;
+    color: #ffffff;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+/* intro-section */
+
+.intro-section{
+    display: flex;
+}
+
+
+.left-section{
+    margin-top: 13%;
+}
+
+.left-section h1{
+    font-size: 4rem;
+    color: #3E4794;
+}
+
+.left-section h4{
+    color: #353D80;
+    font-weight: 100;
+    width: 40%;
+    line-height: 2;
+    margin: 3% 0;
+}
+
+.learn-more-btn{
+    border: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background: linear-gradient(90deg, #965CF2, #FF8ADC);
+    padding: 20px 60px;
+    color: #ffffff;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.imgs-div{
+    position: absolute;
+    right: -8%;
+}
