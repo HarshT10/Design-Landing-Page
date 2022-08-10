@@ -2,7 +2,7 @@
 
 - This project is a landing page for web designers. 
 
-[Netlify](https://design-landing-page-harshthakkar1011.netlify.app/)
+[Netlify](https://design-landing-page-harshcodes.netlify.app/)
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
