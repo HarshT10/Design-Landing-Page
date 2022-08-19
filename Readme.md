@@ -1,6 +1,6 @@
 # **Project 8 - Design Landing Page**
 
-- This project is a landing page for web designers. 
+- This project is a landing page for web designers. It is Fully Responsive.
 
 [Netlify](https://design-landing-page-harshcodes.netlify.app/)
 
